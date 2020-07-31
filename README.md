@@ -1,4 +1,11 @@
-### Hi there 👋
+### Skills
+
+![Sentry](https://img.shields.io/badge/Tools-Sentry-informational?style=flat&logo=Sentry)
+![Prometheus](https://img.shields.io/badge/Tools-Prometheus-informational?style=flat&logo=Prometheus)
+![Golang](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=Go)
+![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python)
+![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java)
+![COBOL](https://img.shields.io/badge/Code-COBOL-informational?style=flat&logo=Cobol)
 
 <!--
 **tjdavis3/tjdavis3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
