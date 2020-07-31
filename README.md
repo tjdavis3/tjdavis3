@@ -19,6 +19,9 @@
 ![COBOL](https://img.shields.io/badge/Code-COBOL-informational?style=flat&logo=Cobol)
 ![Ruby](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=Ruby)
 
+
+[![Todd's github stats](https://github-readme-stats.vercel.app/api?username=tjdavis3)](https://github.com/tjdavis3)
+
 <!--
 **tjdavis3/tjdavis3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
