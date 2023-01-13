@@ -1,4 +1,4 @@
-![qr-code](https://user-images.githubusercontent.com/10136172/212400201-4f28c2c6-b6b4-4d48-8a3d-407bf3c14b4e.png)
+![qr-code](https://user-images.githubusercontent.com/10136172/212400678-3a4f6d6d-a348-4860-aa76-e86f5eb1993c.png)
 
 ### Skills
 
