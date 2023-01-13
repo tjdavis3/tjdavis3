@@ -1,3 +1,5 @@
+![qr-code](https://user-images.githubusercontent.com/10136172/212399388-7c8849bd-d3ff-4ed4-a365-e5b0879c896b.png)
+
 ### Skills
 
 ![Linux](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux)
